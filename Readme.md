@@ -84,7 +84,7 @@ python ./Finger_counting.py
 
 ## FURTHER DEVELOPMENTS
 
-I've trained a TensorFlow model on **Naruto Handsigns** and added to the `/bin` file, the idea is to add a gesture detection system which will Determine what handsigns you are making.
+I've trained a TensorFlow model on **Naruto Handsigns** and added to the `/bin` folder, the idea is to add a gesture detection system which will Determine what handsigns you are making.
 
 I've added a seprate bit of code on how the images will be read and how will they be processed before giving out the prediction.
 
@@ -96,8 +96,5 @@ I didn't completed it yet but I will do that bit soon, when I have time and ener
 
 ## Resources
 
-[](https://www.youtube.com/results?search_query=Finger+Detection)
-
-[Anathor Youtube Person](https://i.ytimg.com/an_webp/5LWbOa1za4U/mqdefault_6s.webp?du=3000&sqp=CJaO6_8F&rs=AOn4CLBuq4WcGulyOHX8Fm9XOXiHeg7XyA)
-
-[Finger%20Detection%2067023c85a43f481ab8cbba5320e4aa30/etrij.11.0110.0313.pdf](Finger%20Detection%2067023c85a43f481ab8cbba5320e4aa30/etrij.11.0110.0313.pdf)
+- [Research Paper #1](Finger%20Detection%2067023c85a43f481ab8cbba5320e4aa30/etrij.11.0110.0313.pdf)
+- Finger-Tip Detection: SohomMukhrjee, ArifAhmed, Debi ProsadDogra, SamarjitKar, ParthaPratimRoy
